@@ -7,7 +7,6 @@ A customizable tooltip that shows pressed keys in real-time on screen.
 | Feature | Description |
 |---------|-------------|
 | Real-time Display | Shows keystrokes as they happen |
-| Counter | Shows repeat count for held keys |
 | Positioning | Follows mouse cursor |
 
 ## Dependencies
