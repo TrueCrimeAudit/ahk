@@ -1,4 +1,4 @@
-# On-Screen Keypress Display (OSKP)
+# On-Screen Keypress (OSKP)
 
 A customizable tooltip that shows pressed keys in real-time on screen.
 
