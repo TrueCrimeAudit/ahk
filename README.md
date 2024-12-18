@@ -7,7 +7,6 @@ A customizable tooltip that shows pressed keys in real-time on screen.
 | Feature | Description |
 |---------|-------------|
 | Real-time Display | Shows keystrokes as they happen |
-| Multi-key Support | Displays modifier keys (Ctrl, Alt, etc.) |
 | Counter | Shows repeat count for held keys |
 | Positioning | Follows mouse cursor |
 
@@ -19,7 +18,7 @@ A customizable tooltip that shows pressed keys in real-time on screen.
 ## Installation
 
 1. Download `OSKP.ahk` 
-2. Install dependency `ToolTipEx.ahk`
+2. Add dependency `ToolTipEx.ahk` to lib folder
 3. Run the script
 
 ## Usage
