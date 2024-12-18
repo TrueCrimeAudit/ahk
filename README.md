@@ -22,13 +22,7 @@ A customizable tooltip that shows pressed keys in real-time on screen.
 
 ## Usage
 
-The script automatically starts displaying keystrokes after running. Supports:
-
-- Alphanumeric keys (A-Z, 0-9)
-- Function keys (F1-F24) 
-- Numpad
-- Special keys (Tab, Enter, etc.)
-- Media/browser controls
+The script automatically starts displaying keystrokes after running. Feel free to add a toggle hotkey or whatever, I mean who even cares?
 
 ## Script
 
